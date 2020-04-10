@@ -1,3 +1,3 @@
 # hello-world
 Just another repository.
-Andy here and I am a human being. I am 11 years old and this is my first script on GitHub.
+Andy here and I am a human being. This is my first script on GitHub.
